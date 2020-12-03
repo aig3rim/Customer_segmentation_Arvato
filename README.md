@@ -26,7 +26,7 @@ You need an installation of Python, plus the following libraries:
 * The probability to subscribe to the mailing service for each potential customer was calculated. On average, the probability to subscribe to the identified customers is about 7%. This low probability could be due to imbalanced model with a lack of positive classes in the train dataset and data sparsity. As the next step, I would balance the classes in the model and check again probabilities for the 226,218 people.
 
 ## Kaggle leaderboard
-![](kaggle_submission_leader_board_top_22%.png)
+![](kaggle_leader_board.png)
 
 ## Medium blog post
 More detailed explaination of the work done for the project can be found in my [blog post on Medium](https://aigerimshopenova.medium.com/identify-potential-customers-with-unsupervised-and-supervised-machine-learning-5310a3455f8a?sk=ebf42e38097fbc13b9140d6ecd8ac23c).
